@@ -27,7 +27,7 @@ chmod +x shadowsocks-all.sh
 
 ##### 效果
 
-![1556375225(1)](C:\Users\Administrator\Desktop\1556375225(1).png)
+![1556375225](F:\VPN\images\1556375225.png)
 
 ------
 
@@ -52,4 +52,4 @@ chmod +x tcp.sh
 
 ##### 效果
 
-![1556375588081](C:\Users\ADMINI~1\AppData\Local\Temp\1556375588081.png)
+![1556375588081](F:\VPN\images\1556375588081.png)
